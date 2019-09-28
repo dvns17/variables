@@ -6,12 +6,14 @@ complete the tasks.
 EXAMPLE TASK:
 '''
 #EX)
-#Broken:
-#name == "Michael"
-#print(name)
-#Correct:
-name = "Michael"
-print(name)
+Broken:
+
+name -- Danica
+
+print (Danica)
+
+name = "Danica"
+print(Danica)
 '''
 END EXAMPLE
 '''
@@ -20,37 +22,32 @@ END EXAMPLE
 START HERE
 '''
 
-#1)
-#Broken:
-#name == "your name"
-#print(name)
-#Correct:
+Broken:
+name == "Danica"
+print (name)
+Correct:
 
-#2)
-#Broken:
-#x = "your name
-#print(x)
-#Correct:
+Broken:
+x = "Danica"
+print (x)
+Correct:
 
 #3)
-#Broken:
-#yay = "yay"
-#print(aya)
-#PROBLEM: The variable is created correctly, but it won't print.
-#TIP: The variable isn't the problem
-#Correct:
+Broken:
+aya = "yay"
+print (aya)
+Correct:
 
 #4)
-#Broken:
-#y == 4
-#print(y)
-#Correct:
+Broken:
+y == 4
+print (y)
 
 #5)
-#Broken:
-#m == 5
-#print(m)
-#Correct:
+Broken:
+m == 5
+print (m)
+Correct:
 
 '''
 For the next section, there will be a variable create correctly. Your job will
@@ -70,40 +67,40 @@ START HERE
 '''
 #1)
 #x = 1.01
-#ANSWER:
+#ANSWER: float
 
 #2)
 #y = 2
-#ANSWER:
+#ANSWER: Integer
 
 #3)
 #a = True
-#ANSWER:
+#ANSWER: Boolean
 
 #4)
 #b = 1
-#ANSWER:
+#ANSWER: Integer
 
 #5)
 #c = "string"
-#ANSWER:
+#ANSWER: ""
 
 #6)
 #d = False
-#ANSWER:
+#ANSWER: Boolean
 
 #7)
 #e = ["a", "b", "c"]
-#ANSWER:
+#ANSWER: List
 
 #8)
 #f = [1, 2, 3]
-#ANSWER:
+#ANSWER: Lsit
 
 #9)
 #g = "nope"
-#ANSWER:
+#ANSWER: String
 
 #10)
 #h = 1.24
-#ANSWER:
+#ANSWER:float
