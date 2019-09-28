@@ -83,7 +83,7 @@ print done
 
 smart = True
 
-print smart 
+print smart
 
 i = done
 
@@ -95,12 +95,12 @@ print j
 
 almostDone = True
 
-print almostDone
+print (almostDone)
 
 '''LISTS'''
 listInt = [1, 2, 3, 4, 5,]
 
-print listInt [4]
+print (listInt [4])
 
 listString ["6", '7", "8", "9", "10"]
 
