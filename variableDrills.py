@@ -17,81 +17,81 @@ START HERE
 '''INTEGERS'''
 var1 = 5
 
-print var1
+print (var1)
 
 var2 = 10
 
-print var2
+print (var2)
 
 var3 = var2
 
-print var3
+print (var3)
 
 x = 14
 
-print x
+print (x)
 
 y = 100
 
-print y 
+print (y) 
 
 '''FLOATS'''
 z = 1.1
 
-print z 
+print (z) 
 
 a = 2.75
 
-print a 
+print (a) 
 
 b = a
 
-print b 
+print (b) 
 
 c = 100.1
 
-print c 
+print (c) 
 
 d = 12.3
 
-print d 
+print (d) 
 
 '''STRINGS'''
 name = Danica 
 
-print name 
+print (name) 
 
 e = D
 
-print e 
+print (e) 
 
 f = A
 
-print f 
+print (f) 
 g = "chicken"
 
-print g 
+print (g) 
 
 h = "Dan"
 
-print h 
+print (h) 
 
 '''BOOLEANS'''
 done = False
 
-print done 
+print (done) 
 
 smart = True
 
-print smart
+print (smart)
 
 i = done
 
-print i 
+print (i) 
 
 j = False
 
-print j 
+print (j) 
 
 almostDone = True
 
